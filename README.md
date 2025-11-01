@@ -1,10 +1,8 @@
 ![Screen Shot 2023-03-23 at 3 06 56 PM](https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png)
 
-# Mind–Body Technologies and the Sati-AI Project  
+# Sati-AI Project: AI as Body-mind Care Technology
 ### by Marlon Barrios Solano  
 *Maker-in-Residence, Center for Arts, Migration, and Entrepreneurship (CAME), University of Florida*  
-
----
 
 ### Overview  
 
@@ -13,8 +11,6 @@ I am interested in how **guided experiences**, **prompt design**, and **human–
 
 At its core, this research explores how we, as embodied and cognitive beings, are **endowed with the ability to relate to non-conscious systems**—to project meaning, emotion, and attention into entities that do not possess consciousness or intentionality, and yet can evoke profound **subjective and intersubjective experiences**.  
 This relational capacity is not a flaw of human cognition but one of its **most creative and therapeutic potentials**.  
-
----
 
 ### Research Focus  
 
