@@ -2,8 +2,6 @@
 
 ![Screen Shot 2023-03-23 at 3 06 56 PM](https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png)
 
-*Maker-in-Residence, Center for Arts, Migration, and Entrepreneurship (CAME), University of Florida*  
-
 ### Overview  
 
 As an interdisciplinary artist, creative technologist, and mindfulness teacher, my current research investigates the evolving relationship between **embodiment, cognition, somatics, and contemplative practices** within the context of **artificial intelligence systems**.  
