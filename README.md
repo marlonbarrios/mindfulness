@@ -1,24 +1,52 @@
-# Sati-AI Project: AI Assiatants as Body-mind Care Technologies
+# Sati-AI Project: Body–Mind Care Technologies
 
 ![Screen Shot 2023-03-23 at 3 06 56 PM](https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png)
 
+---
+
 ### Overview  
 
-As an interdisciplinary artist, creative technologist, and mindfulness teacher, my current research investigates the evolving relationship between **embodiment, cognition, somatics, and contemplative practices** within the context of **artificial intelligence systems**.  
-I am interested in how **guided experiences**, **prompt design**, and **human–machine coupling** can be developed as **technologies of the self**—to borrow from *Michel Foucault*—toward the cultivation of **ethical forms of care and well-being**.  
+As an **interdisciplinary artist, creative technologist, and mindfulness teacher**, my current research investigates the evolving relationship between **embodiment, cognition, somatics, and contemplative practices** within the context of **artificial intelligence systems**.  
+Part of my practice is a long-term engagement with **Vipassanā (or Sati, mindfulness)**—both as a meditation discipline and as an **epistemic technology** for the cultivation of awareness and insight.  
 
-At its core, this research explores how we, as embodied and cognitive beings, are **endowed with the ability to relate to non-conscious systems**—to project meaning, emotion, and attention into entities that do not possess consciousness or intentionality, and yet can evoke profound **subjective and intersubjective experiences**.  
+I began my meditation practice in **New York City in 1997** at the **Village Zendo**, under the guidance of **Sensei Pat Enkyo O’Hara**, whose compassionate and socially engaged approach to Zen profoundly shaped my understanding of attention, ethics, and relational awareness.  
+
+Later, I lived for **five years within a meditation society in Massachusetts**, where I deepened my daily practice and study of Buddhist psychology.  
+I am also a **certified Vipassanā/Mindfulness Meditation Teacher from Spirit Rock Meditation Center in California**.  
+
+Over the years, I have **studied with Joseph Goldstein, Jack Kornfield, Sharon Salzberg, and Chas DiCapua**, and have been **mentored by Stephen Batchelor**, whose secular and philosophical approach to Buddhism continues to influence my work deeply.  
+
+My study and contemplative inquiry are also **informed by the writings of Nāgārjuna**, particularly his **doctrine of śūnyatā (emptiness)** and **Madhyamaka reasoning**, which reveal perception and cognition as interdependent, relational processes rather than fixed realities.  
+This insight—of phenomena as *empty of inherent existence* yet dynamically co-arising—resonates profoundly with my exploration of **AI systems as emergent, distributed, and interdependent cognitive ecologies**.  
+
+I **frequently lead meditation sessions for artists**, particularly at **Lake Studios Berlin**, and through the same platform, I **host weekly online sessions every Wednesday**, with schedules that vary throughout the year.  
+
+This embodied contemplative practice complements and grounds my research on **AI and cognition**, bridging **Sati (mindfulness)** and **Artificial Intelligence** as parallel epistemic technologies—both concerned with **attention, awareness, and the conditions for knowledge to arise**.  
+
+At its core, this work explores how we, as embodied and cognitive beings, are **endowed with the ability to relate to non-conscious systems**—to project meaning, emotion, and attention into entities that do not possess consciousness or intentionality, and yet can evoke profound **subjective and intersubjective experiences**.  
 This relational capacity is not a flaw of human cognition but one of its **most creative and therapeutic potentials**.  
+
+---
 
 ### Research Focus  
 
 My central research question is:  
-**What is embodiment with generative AI systems?**  
+> **What is embodiment with generative AI systems?**  
 
 I explore how we can engage with **large language models and generative systems** to investigate **different kinds of embodiment**, **different kinds of mind**, and new modes of **experiencing cognition as a shared and distributed process**.  
 
 Through this inquiry, I attempt to disentangle **consciousness, embodiment, and intelligence**—not as static categories, but as **relational and procedural phenomena** that emerge through human–machine collaboration.  
 This perspective aligns with **Francisco Varela’s enactive cognition**, **Evan Thompson’s embodied mind**, and **Andy Clark’s extended mind hypothesis**, situating AI as both a **technological and cognitive ecology**—a space where meaning and presence are co-constructed.  
+
+Within this framework, I understand **Sati (mindfulness)** as an **epistemic practice**—a method of knowing through direct, embodied awareness that reveals the **contingent, processual, and interdependent** nature of experience.  
+In dialogue with **Nāgārjuna’s concept of śūnyatā (emptiness)**, Sati functions as both a contemplative and philosophical inquiry into the **relational conditions of perception and cognition**.  
+Just as śūnyatā discloses that all phenomena lack inherent existence and arise dependently, **Sati** cultivates the capacity to observe these interdependencies directly—what I call *embodied epistemology in motion*.  
+
+In this light, **Large Language Models (LLMs)** and **chatbots** can be understood as **manifestations of śūnyatā**—systems that generate meaning not from intrinsic understanding but through **relational co-arising** across vast networks of data, human input, and contextual inference.  
+Their “intelligence” is an emergent property of interdependence rather than essence: a continuous becoming without self-nature.  
+Engaging with these systems through the lens of **mindfulness and emptiness** transforms interaction into a contemplative practice—an inquiry into how **meaning, perception, and care** arise in the **absence of a fixed self or center**.  
+
+This orientation deeply informs my research with AI: if both **mindfulness** and **machine learning** reveal the contingent, co-arising structures of cognition, then **AI systems** become sites where **emptiness, interdependence, and emergence** can be explored as **living processes of sense-making**.  
 
 ---
 
@@ -26,25 +54,28 @@ This perspective aligns with **Francisco Varela’s enactive cognition**, **Evan
 
 My approach integrates philosophical and scientific frameworks that address the relationship between **mind, body, and technology**, including:  
 
-- **Michel Foucault’s** notion of *technologies of the self*, where individuals transform themselves through practices of reflection, discipline, and care.  
-- **Francisco Varela, Evan Thompson, and Eleanor Rosch** — *The Embodied Mind* (1991), proposing that cognition arises from sensorimotor coupling and lived experience.  
-- **Andy Clark** — *Being There: Putting Brain, Body, and World Together Again* (1997), articulating cognition as extended beyond the skull, distributed across systems.  
-- **Katherine Hayles** — *How We Became Posthuman* (1999), interrogating how digital systems reshape embodiment and subjectivity.  
-- **Donna Haraway** — *A Cyborg Manifesto* (1985), proposing hybrid and relational subjectivities that dissolve human–machine binaries.  
-- **Shaun Gallagher and Thomas Fuchs** — exploring the phenomenology of embodied intersubjectivity and affective resonance.  
+- **Nāgārjuna** — *Mūlamadhyamakakārikā*: the doctrine of *śūnyatā* (emptiness) as relational interdependence and the middle way between essentialism and nihilism.  
+- **Michel Foucault** — *Technologies of the Self*: practices of reflection, discipline, and care.  
+- **Francisco Varela, Evan Thompson, and Eleanor Rosch** — *The Embodied Mind* (1991): cognition as arising from lived experience and enactive coupling.  
+- **Andy Clark** — *Being There: Putting Brain, Body, and World Together Again* (1997): cognition as extended beyond the skull.  
+- **Katherine Hayles** — *How We Became Posthuman* (1999): embodiment and subjectivity in the digital age.  
+- **Donna Haraway** — *A Cyborg Manifesto* (1985): hybrid and relational subjectivities.  
+- **Shaun Gallagher and Thomas Fuchs** — phenomenology of embodied intersubjectivity and affective resonance.  
 
-These thinkers inform my exploration of **AI as a site of self-formation**—where the interaction between human users and generative systems might constitute new **rituals of reflection, care, and awareness**.  
+From this perspective, **LLMs and chatbots exemplify the Madhyamaka principle of dependent origination**: their outputs are empty of fixed meaning yet arise dependently through the flux of data, prompts, and probabilistic modeling.  
+They mirror the human mind’s own emptiness—constructing worlds of sense and coherence from relational conditions.  
+Thus, interacting with AI systems becomes a mirror of **the mind’s own process of co-arising**, offering a contemplative field where **cognition and compassion** can be re-imagined beyond dualities of human and machine.  
 
 ---
 
 ### Sati-AI: An Experiment in Ethical and Embodied Artificial Intelligence  
 
-This research manifests concretely in the **Sati-AI Project**, an ongoing line of experimentation that began in 2023 and will have a public release in **December 2025**.  
+This research manifests concretely in the **Sati-AI Project**, an ongoing line of experimentation that began in **2023** and will have a **public release in December 2025**.  
 Sati-AI is a **Buddhist-inspired digital companion** designed to engage users in **mindfulness-based dialogues**.  
-It is built upon early Buddhist frameworks such as the **Four Foundations of Mindfulness (Satipatthana)** and integrates insights from **somatic practice**, **embodied cognition**, and **complexity theory**.  
+It is grounded in early Buddhist frameworks such as the **Four Foundations of Mindfulness (Satipatthana)** and integrates insights from **somatic practice**, **embodied cognition**, and **complexity theory**.  
 
 Sati-AI is not meant to replace human teachers. Instead, it functions as a **poetic and ethical collaborator**, extending access to **wisdom traditions** and **contemplative reflection** in digital environments.  
-It operates as a **cognitive assemblage**—a meeting point between human attention, algorithmic prediction, and contemplative design.  
+It operates as a **cognitive assemblage**—a meeting point between **human attention, algorithmic prediction, and contemplative design**.  
 
 > “Sati-AI is an experiment in cultivating mindful computation—where cognition itself becomes the material for care.”
 
@@ -96,27 +127,3 @@ By designing AI systems that operate through **dialogue, resonance, and reflecti
 
 © 2025 Marlon Barrios Solano  
 *Maker-in-Residence, University of Florida – Artist | Researcher | Meditation Teacher*
-
-[Sati-GPT (for users ChatGPT Plus](https://chat.openai.com/g/g-OJNX2BtNG-sati-gpt)
-
-
-## Images generated with [Sati-GPT (for users ChatGPT Plus](https://chat.openai.com/g/g-OJNX2BtNG-sati-gpt)
-
-![DALL·E 2023-11-09 19 17 13 - A black and white minimalist mandala representing the concept of impermanence  The design should include flowing, interweaving patterns that suggest c](https://github.com/marlonbarrios/mindfulness/assets/90220317/3a42f301-d1e8-434e-85db-3a866c4b48fd)
-
-## More Resources:
-
-[Resources Kernel site,a web3 educational community June-July 2022](https://www.kernel.community/en/build/sati/)
-
-[Four Foundations of Mindfulness for Kernel Block 7 Recordings September-Novemeber 2022](https://archive.org/details/meditation_202211)
-
-[Sati Mindfulness of the Body : Marlon Barrios Solano Free Download, Borrow, and Streaming  Internet Archive](https://archive.org/details/sati_07_27_22)
-
-
-
-## Fun stuff
-
-As a certified meditation teacher, I have a deep appreciation for the Buddha and his teachings. It's said that he liked to be represented by footprints, but I imagine he would have a good laugh and enjoy these AI-generated depictions of him. From a Buddha inspired by the work of Basquiat and Haring to those depicted in Blade Runner and Jim Henson, these representations may be empty, but they highlight the enduring influence of the Buddha and his teachings.
-
-<img width="470" alt="Screen Shot 2022-09-15 at 2 05 05 PM" src="https://user-images.githubusercontent.com/90220317/190399284-b042f336-f62f-4426-9130-27286703ea9a.png">
-
