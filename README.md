@@ -165,11 +165,7 @@ By designing AI systems that operate through **dialogue, resonance, and reflecti
 
 ---
 
-### Contact  
-
-<a href="mailto:mbarriossolano%40ufl.edu?subject=Inquiry%20about%20Sati-AI%20and%20Mind-Body%20Research&body=Hi%20Marlon%2C%0A%0AI'd%20like%20to%20learn%20more%20about%20your%20project%20on%20embodiment%2C%20AI%2C%20and%20mindfulness.">
-**Get in touch**
-</a>
+### [Essay Emptiness, Zero, and the AI Mind: A Generative Void by Marlon Barrios Solano December 15th 2025](https://marlonbarrios.github.io/zero_sunyata/)
 
 ---
 
