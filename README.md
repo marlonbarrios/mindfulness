@@ -79,8 +79,6 @@ This research manifests concretely in the **Sati-AI Project**, an ongoing line o
 
 **Sati-AI** is a **Buddhist-inspired digital companion** designed to engage users in **mindfulness-based dialogues**. Its conceptual foundation draws from early Buddhist frameworks—particularly the **Four Foundations of Mindfulness (*Satipaṭṭhāna*)**—while integrating insights from **somatic practice**, **embodied cognition**, and **complexity theory**.
 
-<img width="1085" height="1021" alt="Screenshot 2026-01-01 at 12 50 55 PM" src="https://github.com/user-attachments/assets/c7c6f3ff-47b6-4838-a902-7b2b929dd616" />
-
 
 ![Screen Shot 2023-03-23 at 3 06 56 PM](https://github.com/user-attachments/assets/c7c6f3ff-47b6-4838-a902-7b2b929dd616)
 
