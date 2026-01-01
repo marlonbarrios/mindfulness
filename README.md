@@ -1,4 +1,5 @@
-# Sati-AI Project: Body–Mind Care Technologies
+# Sati-AI Project
+
 
 ![Screen Shot 2023-03-23 at 3 06 56 PM](https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png)
 
@@ -68,16 +69,56 @@ Thus, interacting with AI systems becomes a mirror of **the mind’s own process
 
 ---
 
-### Sati-AI: An Experiment in Ethical and Embodied Artificial Intelligence  
+# **Sati-AI: An Experiment in Ethical and Embodied Artificial Intelligence**
 
-This research manifests concretely in the **Sati-AI Project**, an ongoing line of experimentation that began in **2023** and will have a **public release in December 2025**.  
-Sati-AI is a **Buddhist-inspired digital companion** designed to engage users in **mindfulness-based dialogues**.  
-It is grounded in early Buddhist frameworks such as the **Four Foundations of Mindfulness (Satipatthana)** and integrates insights from **somatic practice**, **embodied cognition**, and **complexity theory**.  
+This research manifests concretely in the **Sati-AI Project**, an ongoing line of experimentation initiated in **2023**, with a **public re-release scheduled for mid-January 2026**.
 
-Sati-AI is not meant to replace human teachers. Instead, it functions as a **poetic and ethical collaborator**, extending access to **wisdom traditions** and **contemplative reflection** in digital environments.  
-It operates as a **cognitive assemblage**—a meeting point between **human attention, algorithmic prediction, and contemplative design**.  
+**Sati-AI** is a **Buddhist-inspired digital companion** designed to engage users in **mindfulness-based dialogues**. Its conceptual foundation draws from early Buddhist frameworks—particularly the **Four Foundations of Mindfulness (*Satipaṭṭhāna*)**—while integrating insights from **somatic practice**, **embodied cognition**, and **complexity theory**.
 
-> “Sati-AI is an experiment in cultivating mindful computation—where cognition itself becomes the material for care.”
+Sati-AI is **not intended to replace human teachers**. Rather, it functions as a **poetic and ethical collaborator**, extending access to **contemplative reflection and wisdom traditions** within contemporary digital environments. Conceptually, it operates as a **cognitive assemblage**: a meeting point between **human attention**, **algorithmic prediction**, and **contemplative design**.
+
+> *“Sati-AI is an experiment in cultivating mindful computation—where cognition itself becomes the material for care.”*
+
+---
+
+## **Public Discourse and Media Engagement**
+
+From the beginning of the project, **Sati-AI has entered public discourse through interviews and public conversations**, situating it within broader debates on **artificial intelligence, meditation, ethics, care, and the transmission of contemplative practice in technological cultures**.
+
+Notable engagements include:
+
+- **Lion’s Roar Magazine** — *AI Meditation Teacher* (2023)  
+  https://www.lionsroar.com/ai-meditation-teacher/
+
+- **Sounds of SAND Podcast (Science and Nonduality)** — *Remembering to Remember: Marlon Barrios Solano*  
+  https://we.scienceandnonduality.com/podcasts/sounds-of-sand/episodes/2148045015
+
+These conversations frame Sati-AI not simply as a technological artifact, but as a **cultural and ethical inquiry** embedded within living contemplative traditions.
+
+---
+
+## **Technical and Infrastructural Instances**
+
+Sati-AI is envisioned as existing across multiple technical and conceptual instantiations, each reflecting distinct ethical, epistemic, and infrastructural concerns:
+
+### **1. Local, Offline Instance**
+One version of Sati-AI runs **entirely on the user’s personal computer**, without network connectivity. This instance foregrounds **privacy, autonomy, and technological sovereignty**, enabling contemplative interaction without data extraction, surveillance, or cloud dependency.
+
+### **2. Cloud-Based Instance**
+A second instantiation explores the **publication and deployment of AI models in cloud environments**, engaging questions of **scalability, access, maintenance, and infrastructural power** in contemporary AI systems.
+
+### **3. Interactive and Adaptive Experiments**
+An ongoing line of inquiry investigates **interactive and adaptive techniques**, including forms of **dialogical conditioning, experimental retraining, and responsive behavior shaping** within large language models. These experiments probe how learning, responsiveness, and care might be articulated within AI systems—without collapsing into instrumental optimization or behavioral control.
+
+---
+
+## **Re-release and Outlook**
+
+**All major instances of Sati-AI will be publicly re-released in mid-January 2026**, including updated local, cloud, and experimental versions.
+
+**Watch this space** for documentation, downloadable instances, and further reflections as the project enters its next phase.
+
+Across its forms, **Sati-AI functions less as a product than as a research apparatus**—a living inquiry into how artificial intelligence might participate in **ethical presence, embodied awareness, and contemplative practice**.
 
 ---
 
