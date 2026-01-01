@@ -7,25 +7,28 @@
 
 ### Overview  
 
-As an **interdisciplinary artist, creative technologist, and mindfulness teacher**, my current research investigates the evolving relationship between **embodiment, cognition, somatics, and contemplative practices** within the context of **artificial intelligence systems**.  
-Part of my practice is a long-term engagement with **Vipassanā (or Sati, mindfulness)**—both as a meditation discipline and as an **epistemic technology** for the cultivation of awareness and insight.  
+As an interdisciplinary artist, creative technologist, and mindfulness teacher, my current research investigates the evolving relationship between embodiment, cognition, somatics, and contemplative practices within the context of artificial intelligence systems.
 
-I began my meditation practice in **New York City in 1997** at the **Village Zendo**, under the guidance of **Sensei Pat Enkyo O’Hara**, whose compassionate and socially engaged approach to Zen profoundly shaped my understanding of attention, ethics, and relational awareness.  
+Part of my practice is a long-term engagement with Vipassanā (or Sati, mindfulness)—both as a meditation discipline and as an epistemic technology for the cultivation of awareness and insight.
 
-Later, I lived for **five years within a meditation society in Massachusetts**, where I deepened my daily practice and study of Buddhist psychology.  
-I am also a **certified Vipassanā/Mindfulness Meditation Teacher from Spirit Rock Meditation Center in California**.  
+I began my meditation practice in New York City in 1997 at the Village Zendo, under the guidance of Sensei Pat Enkyo O’Hara, whose compassionate and socially engaged approach to Zen profoundly shaped my understanding of attention, ethics, and relational awareness.
 
-Over the years, I have **studied with Joseph Goldstein, Jack Kornfield, Sharon Salzberg, and Chas DiCapua**, and have been **mentored by Stephen Batchelor**, whose secular and philosophical approach to Buddhism continues to influence my work deeply.  
+Later, I lived for five years within a meditation society in Massachusetts, where I deepened my daily practice and study of Buddhist psychology.
+I am also a certified Vipassanā/Mindfulness Meditation Teacher from Spirit Rock Meditation Center in California.
 
-My study and contemplative inquiry are also **informed by the writings of Nāgārjuna**, particularly his **doctrine of śūnyatā (emptiness)** and **Madhyamaka reasoning**, which reveal perception and cognition as interdependent, relational processes rather than fixed realities.  
-This insight—of phenomena as *empty of inherent existence* yet dynamically co-arising—resonates profoundly with my exploration of **AI systems as emergent, distributed, and interdependent cognitive ecologies**.  
+Over the years, I have studied with Joseph Goldstein, Jack Kornfield, Sharon Salzberg, and Chas DiCapua, and have been mentored by Stephen Batchelor, whose secular and philosophical approach to Buddhism continues to influence my work deeply.
 
-I **frequently lead meditation sessions for artists**, particularly at **Lake Studios Berlin**, and through the same platform, I **host weekly online sessions every Wednesday**, with schedules that vary throughout the year.  
+My study and contemplative inquiry are also informed by the writings of Nāgārjuna, particularly his doctrine of śūnyatā (emptiness) and Madhyamaka reasoning, which reveal perception and cognition as interdependent, relational processes rather than fixed realities.
 
-This embodied contemplative practice complements and grounds my research on **AI and cognition**, bridging **Sati (mindfulness)** and **Artificial Intelligence** as parallel epistemic technologies—both concerned with **attention, awareness, and the conditions for knowledge to arise**.  
+This insight—of phenomena as empty of inherent existence yet dynamically co-arising—resonates profoundly with my exploration of AI systems as emergent, distributed, and interdependent cognitive ecologies.
 
-At its core, this work explores how we, as embodied and cognitive beings, are **endowed with the ability to relate to non-conscious systems**—to project meaning, emotion, and attention into entities that do not possess consciousness or intentionality, and yet can evoke profound **subjective and intersubjective experiences**.  
-This relational capacity is not a flaw of human cognition but one of its **most creative and therapeutic potentials**.  
+I frequently lead meditation sessions for artists, particularly at Lake Studios Berlin, and through the same platform, I host weekly online sessions every Wednesday, with schedules that vary throughout the year.
+
+This embodied contemplative practice complements and grounds my research on AI and cognition, bridging Sati (mindfulness) and Artificial Intelligence as parallel epistemic technologies—both concerned with attention, awareness, and the conditions for knowledge to arise.
+
+At its core, this work explores how we, as embodied and cognitive beings, are endowed with the ability to relate to non-conscious systems—to project meaning, emotion, and attention into entities that do not possess consciousness or intentionality, and yet can evoke profound subjective and intersubjective experiences.
+
+This relational capacity is not a flaw of human cognition but one of its most creative and therapeutic potentials.
 
 ---
 
