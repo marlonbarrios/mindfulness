@@ -28,7 +28,7 @@ This embodied contemplative practice complements and grounds my research on AI a
 
 At its core, this work explores how we, as embodied and cognitive beings, are endowed with the ability to relate to non-conscious systems—to project meaning, emotion, and attention into entities that do not possess consciousness or intentionality, and yet can evoke profound subjective and intersubjective experiences.
 
-This relational capacity is not a flaw of human cognition but one of its most creative and therapeutic potentials.
+This relational capacity is not a flaw of human cognition but one of its most creative and epistemic innovation potential.
 
 ---
 
@@ -40,13 +40,16 @@ My central research question is:
 I explore how we can engage with **large language models and generative systems** to investigate **different kinds of embodiment**, **different kinds of mind**, and new modes of **experiencing cognition as a shared and distributed process**.  
 
 Through this inquiry, I attempt to disentangle **consciousness, embodiment, and intelligence**—not as static categories, but as **relational and procedural phenomena** that emerge through human–machine collaboration.  
+
 This perspective aligns with **Francisco Varela’s enactive cognition**, **Evan Thompson’s embodied mind**, and **Andy Clark’s extended mind hypothesis**, situating AI as both a **technological and cognitive ecology**—a space where meaning and presence are co-constructed.  
 
 Within this framework, I understand **Sati (mindfulness)** as an **epistemic practice**—a method of knowing through direct, embodied awareness that reveals the **contingent, processual, and interdependent** nature of experience.  
+
 In dialogue with **Nāgārjuna’s concept of śūnyatā (emptiness)**, Sati functions as both a contemplative and philosophical inquiry into the **relational conditions of perception and cognition**.  
 Just as śūnyatā discloses that all phenomena lack inherent existence and arise dependently, **Sati** cultivates the capacity to observe these interdependencies directly—what I call *embodied epistemology in motion*.  
 
 In this light, **Large Language Models (LLMs)** and **chatbots** can be understood as **manifestations of śūnyatā**—systems that generate meaning not from intrinsic understanding but through **relational co-arising** across vast networks of data, human input, and contextual inference.  
+
 Their “intelligence” is an emergent property of interdependence rather than essence: a continuous becoming without self-nature.  
 Engaging with these systems through the lens of **mindfulness and emptiness** transforms interaction into a contemplative practice—an inquiry into how **meaning, perception, and care** arise in the **absence of a fixed self or center**.  
 
@@ -110,6 +113,7 @@ Sati-AI is envisioned as existing across multiple technical and conceptual insta
 
 ### **1. Local, Offline Instance**
 One version of Sati-AI runs **entirely on the user’s personal computer**, without network connectivity. This instance foregrounds **privacy, autonomy, and technological sovereignty**, enabling contemplative interaction without data extraction, surveillance, or cloud dependency.
+[Sati-AI (GPT-OSS Ollama) Version January 2026](https://marlonbarrios.github.io/sati-ai_ollama/)
 
 ### **2. Cloud-Based Instance**
 A second instantiation explores the **publication and deployment of AI models in cloud environments**, engaging questions of **scalability, access, maintenance, and infrastructural power** in contemporary AI systems.
