@@ -1,5 +1,4 @@
-# Sati-AI Project
-
+# The Upheavals of Emptiness
 
 ![Screen Shot 2023-03-23 at 3 06 56 PM](https://user-images.githubusercontent.com/90220317/227377588-eeaa8bcb-c3b0-4ad9-8a18-f7be20c406e7.png)
 
@@ -73,7 +72,7 @@ Thus, interacting with AI systems becomes a mirror of **the mind’s own process
 
 ---
 
-# **Sati-AI: An Experiment in Ethical and Embodied Artificial Intelligence**
+# **Sati-AI Project: An Experiment in Ethical and Embodied Artificial Intelligence**
 
 This research manifests concretely in the **Sati-AI Project**, an ongoing line of experimentation initiated in **2023**, with a **public re-release scheduled for mid-January 2026**.
 
