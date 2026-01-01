@@ -7,6 +7,7 @@
 
 ### Overview  
 
+
 As an interdisciplinary artist, creative technologist, and mindfulness teacher, my current research investigates the evolving relationship between embodiment, cognition, somatics, and contemplative practices within the context of artificial intelligence systems.
 
 Part of my practice is a long-term engagement with Vipassanā (or Sati, mindfulness)—both as a meditation discipline and as an epistemic technology for the cultivation of awareness and insight.
@@ -77,6 +78,12 @@ Thus, interacting with AI systems becomes a mirror of **the mind’s own process
 This research manifests concretely in the **Sati-AI Project**, an ongoing line of experimentation initiated in **2023**, with a **public re-release scheduled for mid-January 2026**.
 
 **Sati-AI** is a **Buddhist-inspired digital companion** designed to engage users in **mindfulness-based dialogues**. Its conceptual foundation draws from early Buddhist frameworks—particularly the **Four Foundations of Mindfulness (*Satipaṭṭhāna*)**—while integrating insights from **somatic practice**, **embodied cognition**, and **complexity theory**.
+
+<img width="1085" height="1021" alt="Screenshot 2026-01-01 at 12 50 55 PM" src="https://github.com/user-attachments/assets/c7c6f3ff-47b6-4838-a902-7b2b929dd616" />
+
+
+![Screen Shot 2023-03-23 at 3 06 56 PM](https://github.com/user-attachments/assets/c7c6f3ff-47b6-4838-a902-7b2b929dd616)
+
 
 Sati-AI is **not intended to replace human teachers**. Rather, it functions as a **poetic and ethical collaborator**, extending access to **contemplative reflection and wisdom traditions** within contemporary digital environments. Conceptually, it operates as a **cognitive assemblage**: a meeting point between **human attention**, **algorithmic prediction**, and **contemplative design**.
 
