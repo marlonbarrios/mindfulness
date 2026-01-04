@@ -113,7 +113,8 @@ Sati-AI is envisioned as existing across multiple technical and conceptual insta
 
 ### **1. Local, Offline Instance**
 One version of Sati-AI runs **entirely on the user’s personal computer**, without network connectivity. This instance foregrounds **privacy, autonomy, and technological sovereignty**, enabling contemplative interaction without data extraction, surveillance, or cloud dependency.
-[Sati-AI (GPT-OSS Ollama) Version January 2026](https://marlonbarrios.github.io/sati-ai_ollama/)
+
+[Sati-AI (Ollama) Version January 2026](https://ollama.com/marlonbarriossolano)
 
 ### **2. Cloud-Based Instance**
 A second instantiation explores the **publication and deployment of AI models in cloud environments**, engaging questions of **scalability, access, maintenance, and infrastructural power** in contemporary AI systems.
